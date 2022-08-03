@@ -4,7 +4,7 @@
 - [Introduction to Git and GitHub](https://coursera.org/verify/J6RHJBBHCLMX)
 - [Troubleshooting and Debugging Techniques](https://coursera.org/verify/D5QZJDKGQLTM)
 
-## 2.IBM Data Engineering Professional Certificate (5/13)
+## 2. IBM Data Engineering Professional Certificate (5/13)
 - [Introduction to Data Engineering](https://coursera.org/verify/GTVSCY8CRZ2V)
 - [Python for Data Science, AI \& Development](https://coursera.org/verify/QFUHE58LKBCX)
 - [Python Project for Data Engineering](https://coursera.org/verify/4GPS8JY8MGVY)
